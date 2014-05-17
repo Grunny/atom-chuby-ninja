@@ -1,0 +1,11 @@
+{
+  "name": "chuby-ninja",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The Chuby Ninja syntax theme converted for Atom",
+  "repository": "https://github.com/grunny/atom-chuby-ninja",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
